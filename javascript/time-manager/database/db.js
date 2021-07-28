@@ -43,38 +43,8 @@ dbTimeline.push({
 //##############################################################
 //##############################################################
 dbTodo.push({
-    date: '02/06/2021',
-    title: 'COMPUSOC - Tópico 15',
-    description: 'ENVIAR - Produto e Relatórios das práticas em grupo',
-    state: 0,
-});
-dbTodo.push({
-    date: '31/05/2021',
-    title: 'MATA95',
-    description: 'Test of MATA95 (P3)',
-    state: 0,
-});
-dbTodo.push({
-    date: '04/06/2021',
-    title: 'MATA95',
-    description: 'Test of MATA95 (SBS)',
-    state: 0,
-});
-dbTodo.push({
-    date: '22/05/2021',
-    title: 'COMPUSOC - Tópico 11',
-    description: 'Fórum  - Saude emocional nas redes',
-    state: 0,
-});
-dbTodo.push({
-    date: '05/05/2021',
-    title: 'COMPUSOC - Tópico 12',
-    description: 'Palestra - Segurança da Informação e Ética: Ensino, Respeito e Responsabilidade',
-    state: 0,
-});
-dbTodo.push({
-    date: '05/05/2021',
-    title: 'COMPUSOC - Tópico 13',
-    description: 'Tarefa - Repositório Institucional: acesso aberto para a produção científica da UFBA',
-    state: 0,
+    date: '09/08/2021',
+    title: 'Aula',
+    description: 'Volta',
+    state: 1,
 });
