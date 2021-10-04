@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+	vertical-align:baseline;
+	list-style:none;
+}
+
+.container{
+    	display:inline-block;
+    	border:2px solid red;
+    	margin: 4px;
+    
+    	width: 100vw;
+    	height: 100vh;
+}
+
+.container img{
+    	background: no-repeat center;
+    	background-size: cover;    
+    
+	max-width:200px;
+    	max-height:150px;
+    	width: auto;
+    	height: auto;
+}
