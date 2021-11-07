@@ -2,8 +2,6 @@ package negocio;
 
 /**
  * Exceção a ser lançada quando a idade de um possível novo cliente não for aceita.
- * 
- * @author Gustavo Farias
  */
 public class IdadeNaoPermitidaException extends Exception {
 

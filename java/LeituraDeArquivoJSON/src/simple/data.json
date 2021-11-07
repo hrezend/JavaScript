@@ -1,0 +1,22 @@
+[
+	{
+		"nome": "Hérson",
+		"idade": 21,
+		"cpf": "012.345.678-99",
+		"cidade": {
+			"nome": "Muritiba",
+			"estado": "Bahia",
+			"cep": "44340-000"
+		}
+	},
+	{
+		"nome": "João",
+		"idade": 22,
+		"cpf": "112.345.678-99",
+		"cidade": {
+			"nome": "Salvador",
+			"estado": "Bahia",
+			"cep": "40210-340"
+		}
+	}
+]
